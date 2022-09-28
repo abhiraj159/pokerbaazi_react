@@ -1,0 +1,1910 @@
+
+
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+
+#myHeader .container {
+    position: static;
+}
+h1, h4, h5, h6 {  
+	font-weight:  normal !important;
+}
+
+   .conbutton{ cursor: pointer; 
+}
+
+.greenerrors {
+	color: #0ff74e;
+	}
+	.rederrors {
+	color: #f35757;
+	}
+
+header {
+	background-color: #fff;
+	padding: 5px 0;
+	z-index: 99999;
+	position: relative;
+	min-height: 65px;
+	box-shadow: 0 2px 40px rgba(32, 64, 96, 0.1)
+}
+
+header.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	box-shadow: 0 0 10px #ccc;
+	background-color: #fff
+}
+
+.storynglory  {
+	display: inline-flex;
+}
+
+.sngtopsec {
+	border: 1px solid #EAEFF3;
+}
+
+.header-my-account {
+	margin-left: 20px
+}
+
+.header-my-account .header-my-account-inner {
+	cursor: pointer;
+	background-image: url('https://qaaccount.alphabetabox.com/templates/beez_20/assets/images/icons/down-arrow.svg');
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding: 0 20px 0 0;
+	display: flex
+}
+
+.blueboxcontent h2{
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 27px;
+	text-align: center;
+	letter-spacing: -0.03em;  
+}
+
+.header-my-account .header-my-account-user {
+	padding: 17px 5px 0 0;
+	color: #2643a0;
+	font-weight: 500
+}
+
+#myHeader .container {
+	position: relative
+}
+
+#myHeader .container {
+	position: relative
+}
+
+.navbar {
+	padding: 0 40px 0 0;
+	justify-content: justify-self !important;
+	position: static
+}
+
+.navbar .navbar-toggler {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	border: 0;
+	padding: 0;
+	color: #2643a0
+}
+
+.navbar .navbar-toggler {
+	position: absolute;
+	right: 10px;
+	top: 15px;
+	border: 0;
+	padding: 0;
+	color: #2643a0;
+	width: 30px;
+	height: 30px;
+	outline: 0
+}
+
+.hamburger_dgn1 {
+	background: #041f6c;
+    display: block;
+    width: 25px;
+    height: 3px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    -webkit-transition: all .5s linear;
+    transition: all .3s linear;
+}
+
+
+.most-bmgmain-links-section {
+	background-color: #eeeff2;
+}
+
+.d_active + .bmgtab_content {
+	display: flex;
+}
+
+.bmgfoot h3.bmgtabs_bmgdr_head.d_active,
+.bmgtabs_bmgdr_head.d_active + .bmgtab_content {
+	font-weight: 600;
+}
+
+.bmgfoot.d_active {
+	background-color: transparent;
+	color: #fff;
+}
+
+.bmgfoot.bmglight-theme.d_active,
+.bmgfoot.bmgwhite-theme.d_active {
+	background-color: transparent;
+	color: #1d1f25;
+}
+
+.bmgfoot.bmgtabs_bmgdr_head.d_active + .bmgtab_content {
+	padding: 0;
+}
+
+.bmgtabs_bmgdr_head.d_active i {
+	transform: rotate(-135deg);
+	-moz-transform: rotate(-135deg);
+	-webkit-transform: rotate(-135deg);
+	transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-webkit-transition: all 0.2s;
+}
+
+.cuscollapsible:after {
+	content: "\2b";
+	color: #041b67;
+	font-weight: bold;
+	position: relative;
+	top: 2px;
+	margin-left: 0px;
+	font-size: 22px;
+}
+
+label.bmgmain-links-toggle.cuscollapsible.active:after {
+	content: "\2212";
+}
+
+.most-bmgmain-links {
+	max-height: none !important;
+	margin: 0 15px;
+	padding: 0 0 10px 0;
+}
+
+.st0 {
+	fill: #ffffff;
+}
+
+.st1 {
+	fill: #061b66;
+}
+
+.d_sm_none {
+	margin-left: 1.5rem;
+}
+
+
+.menu-toggle-btn span {
+	background: #041f6c;
+	display: block;
+	width: 25px;
+	height: 3px;
+	border-radius: 5px;
+	margin-bottom: 5px;
+	-webkit-transition: all .5s linear;
+	transition: all .3s linear
+}
+
+.menu-toggle-btn.open span:nth-child(1) {
+	transform: translate(0px, 0) rotate(-45deg);
+	margin: 0;
+	width: 32px
+}
+
+.menu-toggle-btn.open span:nth-child(2) {
+	height: 0;
+	margin: 0
+}
+
+.menu-toggle-btn.open span:nth-child(3) {
+	transform: translate(0px, 0) rotate(45deg);
+	margin: 0;
+	width: 32px
+}
+
+.navbar .header-logo {
+	margin-right: 0
+}
+
+.navbar .header-logo img {
+	min-height: 31px;
+	width: 220px
+}
+
+.navbar .nav-item {
+	color: #041b67;
+	padding: 4px 10px;
+	position: relative;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 16px
+}
+
+.navbar .nav-item:before {
+	display: none;
+	position: absolute;
+	content: "";
+	transition: .5s;
+	left: 10px;
+	right: 30px;
+	bottom: -18px;
+	margin: 0 auto;
+	width: 0;
+	height: 2px;
+	background-color: #041b67
+}
+
+.tournaments img {
+    border-radius: 7px;
+}
+
+.mb_10 {
+	margin-bottom: 10rem !important;
+}
+
+.navbar .nav-item:hover:before {
+	width: calc(100% - 32px)
+}
+
+.pink-bg {
+	background-color: #f35757
+}
+
+.chtimpeslider{ 
+
+	margin:0 -8px; }
+
+.chtimpeslider .slick-slide{ 
+	padding: 0 8px 10px 8px; 
+}
+
+.conbutton {
+	padding: 6px 25px;
+	border-radius: 94px;
+	color: #fff !important;
+	text-transform: uppercase;
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+.conbutton.splcond {
+	padding: 6px 10px
+}
+
+.careers-job-content .careers-job-content-top .conbutton {
+	position: absolute;
+	right: 0;
+	top: 10px
+}
+
+.blue-bg {
+	background-color: #061058 !important
+}
+
+.icustomercare {
+	background-image: url('https://web.pokerbaazicdn.com/assets/icons/customer-care.svg');
+	width: 25px;
+	height: 25px;
+	display: block;
+	background-repeat: no-repeat
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-nav .dropdown.position-static.clearfix.d-block.d-md-none .float-left:last-child {
+	float: right !important
+}
+
+.newstrigersec {
+  background: rgba(214, 189, 161, 0.67);
+  color: #373A3D;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+}
+
+.newstrigersec h2 {
+  font-size: 14px;
+}
+
+.header-call-iocn {
+	margin-right: 20px;
+	margin-left: auto
+}
+
+.mainwarper {
+	background:#f55a2e; 
+	position: relative;
+}
+
+.mainwarperinner{ 
+	position: relative; 
+	top:auto; 
+	left: 0;  
+	right: 0; 
+	transform: translateY(0); 
+	bottom: 0; 
+	z-index: 9; 
+}
+
+.mainwarper .mobimg{ 
+	width:90%; 
+	margin: 0 auto; 
+}
+
+.slidedots .slick-dots li{ 
+	width: auto; 
+	margin:0; 
+}
+
+.slidedots .slick-dots li button{ 
+	width: 10px;  
+	height: 10px; 
+	border-radius: 50%; 
+	background-color: #D3D3D4; 
+	margin: 0 4px; 
+	padding: 0; 
+}
+
+.slidedots .slick-dots li.slick-active button{ background-color: #AD7C01 !important; }
+
+.companesec{ 
+	background: #041B67 url(https://web.pokerbaazicdn.com/asset/images/companysec-bg.png) no-repeat  right center; background-size: 40px;  
+}
+
+.companesec h2{
+	font-size: 12px;
+}
+
+.companesec .compdd span{ 
+	display: block; 
+	position: relative; 
+	padding: 10px 0 8px 36px;
+ }
+
+.companesec .compdd  span img{ 
+	position: absolute; 
+	left: 0; 
+	top: 50%; 
+	transform: translateY(-50%); 
+}
+
+.companesec .compdd{ 
+	color: #fff; 
+}
+
+.companesec .compdd p{ 
+	font-weight: 600; 
+	font-size:2.1rem; 
+}
+
+.img50 img{ 
+	max-width: 50%; 
+}
+
+
+.pbottom{ bottom: 0; }
+
+.pleft{ left: 0; }
+
+.ptop{ top: 0; }
+
+.pright{ right: 0; }
+
+.poscenter{ top: 13%;}
+
+.posabb{ position: absolute; z-index: -1; }
+
+.posabb.zindex2{ z-index:2}
+
+.mainwarper .mobimg{ width:90%; margin: 0 auto; }
+
+.mainwarper{
+	background:#f55a2e  ; 
+	position: relative;
+}
+
+.mainwarperinner{ 
+	position: relative; 
+	top:auto; 
+	left: 0;  
+	right: 0; 
+	transform: translateY(0); 
+	bottom: 0; 
+	z-index: 9; 
+}
+
+.mainwarper .mobimg{ 
+	width:90%; 
+	margin: 0 auto; 
+}
+
+.mainbannercontent h5{
+	font-weight: 400;
+	font-size:17px;
+	line-height: 25px;
+	letter-spacing: -0.015em;
+	color: #000000;
+}
+
+.mainbannercontent h2{
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 35px;
+	text-transform: uppercase;
+	color: #000000; 
+	letter-spacing: 2px; 
+}
+
+.mainbannercontent h2 span{
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 125.3%;
+	text-transform: capitalize;
+	color: #fff; 
+	display: block; 
+	padding: 8px 0  ; 
+	letter-spacing:normal  ;
+}
+
+.downloadlinks{ 
+	position: relative; 
+	margin-right: 20%;  
+}
+
+.downloadlinks input{ 
+	background: #FFFFFF;
+	border: 1px solid #D3D3D4;
+	border-radius: 30px; 
+	line-height: 40px; 
+	padding: 0 10px 0 60px; 
+	-moz-appearance: textfield; 
+	-webkit-appearance: none !important; 
+}
+
+.downloadlinks span{ 
+	position: absolute; 
+	left: 20px; 
+	top: 50%; 
+	transform: translateY(-50%);
+	border-right: 1px solid #D3D3D4;  
+	display:block; 
+	padding: 0 8px 0 0; 
+}
+
+.commanbuton{
+	background: linear-gradient(274.02deg, #f7ec09 -20.18%, #9d9700 97.95%);
+	box-shadow: 0px 10px 10px rgba(2, 29, 125, 0.15);
+	border-radius: 30px; 
+	line-height: 55px; 
+	padding: 0 35px; 
+	border: 0; 
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.blankbutton{ 
+	background-color: transparent; 
+	border: 0;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 30px;
+	color: #041B67; 
+}
+
+.mobilebutton{ 
+	line-height:40px; 
+	font-size: 14px; 
+	padding: 0 40px;
+}
+
+[data-inviewport="scale-in"] { 
+	transition: 2s;
+	transform: scale(0.1);
+  }
+
+  [data-inviewport="scale-in"].is-inViewport { 
+	transform: scale(1);
+  }
+  
+  [data-inviewport="fade-rotate"] { 
+	transition: 2s;
+	opacity: 0;
+  }
+  
+  [data-inviewport="fade-rotate"].is-inViewport { 
+	transform: rotate(180deg);
+	opacity: 1;
+  }
+  
+  [data-inviewport="fade-bottomtotop"] { 
+	transition: 2s; transform: translateY(0px);	
+  }
+
+  [data-inviewport="fade-bottomtotop"].is-inViewport { 
+	 transform: translateY(-50px);   
+  }  
+  
+  [data-inviewport="fade-toptobottom"] { 
+	transition: 2s;
+	transform: translateY(0px);	
+  }
+
+  [data-inviewport="fade-toptobottom"].is-inViewport { 
+	transform: translateY(50px);
+	}
+
+  .offcanvas {
+	--bs-offcanvas-height: fit-content;
+  }
+
+
+  .offcanvas-body .navbar-nav li a {
+	color: #041b67;
+	text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+	display: inline-block;
+  }
+
+  .avatorheader .avator{ 
+	background:url(https://www.pokerbaazi.com/templates/assets/images/avatar.png);  
+	width: 50px; 
+	height: 50px; 
+	background-size: 250px;
+}
+
+  .avatorheader .dropdown-toggle{ 
+	background-color: transparent; 
+	border:0; 
+	padding: 0 14px 0 0;
+}
+
+  .avatorheader   .dropdown-toggle::after{ 
+	position: absolute; 
+	top: 18px; 
+	right: 0; 
+}
+
+  .avatorheader.show .dropdown-toggle::after{ 
+	transform: rotate(-180deg);
+}
+
+  .avatorheader  .dropdown-menu{ 
+	border:0; 
+	padding: 0; 
+	width: 8rem; 
+	top: 113%; 
+}
+
+  .avatorheader  .dropdown-menu{ 
+	right: 0; 
+	left: auto; 
+}
+
+  .avatorheader  .dropdown-menu a{ 
+	display: block; 
+	color: #041B67; 
+	font-weight: 500; 
+	padding: 6px 10px; 
+	font-size: 1rem; 
+}
+
+  .avatorheader  .dropdown-menu a:hover{ 
+	background-color: #3FCB9C; 
+	color: #fff  
+}
+
+.flip-card_width {
+	width: 100%;
+	display: inline-block;
+}
+
+.mr-2 {
+	margin-right: .5rem;
+}
+
+  .brand-logo {
+	display: inline;
+	width: 170px;
+	height: auto;
+  }
+
+  .navbar .navbar-toggler {
+	color: #fff !important;
+  }
+
+.mainbannercontent h5{
+	font-size: 21px;
+	line-height: 25px;
+}
+
+.mainbannercontent h2{
+	font-size:35px;
+	line-height: 45px;  
+}
+
+.mainbannercontent h2 span{
+	font-size: 19px;
+	line-height: 100%;
+}
+
+.commanbuton{ 
+	line-height: 50px; 
+	padding: 0 30px; 
+	font-size: 20px;
+}
+.blankbutton{ 
+	font-size: 18px;
+	line-height: 24px; 
+}
+
+.mainbannercontent{ 
+	padding: 0 0 0 20px; 
+}
+
+.bluemedline{
+	width: 41px;
+	height: 4px; 
+	display: inline-block;
+	background: #000339;
+	border-radius: 12px; 
+	margin-bottom: 10px;
+}
+.bluemedline.whitebg{
+	background: #fff;
+}
+.whitebgstyle li{ 
+	list-style: none; 
+	color: #fff; 
+	position: relative; 
+	padding: 0 0 15px 30px;
+	opacity: 0.75; 
+	font-size: 20px; 
+}
+
+.whitebgstyle li:after{
+	position: absolute; 
+	content: "";
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0;
+	background: rgba(255, 255, 255, 0.29); 
+	border-radius: 50%;
+}
+
+#myDIVs{ 
+	position:  absolute; 
+	top: 50%; 
+	left: 0; 
+	right: 0; 
+	transform: translateY(-50%); 
+	z-index: 9; 
+}
+
+#myDIVs button{ 
+	background-color: transparent; 
+	border: 0; padding: 0;  
+}
+
+.videocover video{ 
+	object-fit: cover; 
+	width: 100%;
+	height: auto;
+	border-radius: 5px;
+}
+
+video{ 
+	aspect-ratio: 1.77 / 1; 
+	width: 100%; 
+	height: auto;
+	background-color: black;
+	border-radius: 7px;
+}
+
+.mphedcon .mptext{
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	letter-spacing: 0.0025em;
+	color: #7A7C7D; 
+	font-size: 14px; 
+	line-height: 17px; 
+}
+
+.videocover.videocovers .videocimg{
+	 border-radius: 7px; 
+}
+
+.videocovers{ position: relative;  }
+
+.videocovers .yt_video_wrapper{ 
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	right: 0; 
+	bottom: 0;
+}
+
+.videocovers .yt_video_wrapper iframe { 
+	height: 100%; 
+	width: 100%; 
+	border-radius:10px
+}
+
+.videocover.videocovers .videocimg{ 
+	border-radius: 7px; 
+}
+
+.imgs123 {
+	
+	width:100% !important;
+	
+}
+
+a img .imgss {
+	position:absolute; 
+	width:80px; 
+	height:80px;  
+	top:50%; 
+	transform:translateY(-50%);
+	margin:0 auto; 
+	left:0; 
+	right:0
+}
+
+a, button {
+    position: relative;
+    overflow: hidden;
+    outline: 0!important;
+	width: auto !important;
+}
+
+.getlinkapp { 
+	position: relative; 
+	padding: 0 110px 0 0; 
+}
+.getlinkapp button{ 
+	position: absolute; 
+	right: 0; 
+	top: 0; 
+	line-height: 
+	40px; 
+	padding: 0 20px; 
+	font-size: 16px; 
+}
+
+.videotext h4{ 
+	font-size: 24px;
+	line-height: 30px; 
+}
+
+.videotext h5{ 
+	font-size: 20px;
+	line-height: 27px; 
+}
+
+.rFixedBtn {
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase; 
+	font-weight: 600;
+	color: #fff; 
+	text-align: center; 
+	border: 1px solid #041b67;  
+	border-radius: unset;  
+	display: inline-block;  
+	background-color: #041b67; 
+	cursor: pointer;  
+	z-index: 9999;  
+	transform: rotate(-90deg);  
+	position: fixed;
+	right: -62px;  
+	width: 166px;  
+	bottom: 0;  
+	height: 42px;  
+	top: 0;  
+	margin: auto; 
+	overflow: visible; 
+}
+
+.leaderboards ul {
+	min-height: 300px;
+}
+
+.datepicker-dropdown {
+	z-index: 99 !important;
+}
+
+.datepicker td,
+.datepicker th {
+	height: 28px;
+	width: 30px;
+	font-size: 14px;
+}
+
+.homepage-banner {
+	background-color: #061058;
+}
+
+.homepage-banner__points {
+	background-color: #2744a4;
+}
+
+.bmgmain-links-toggle {
+	text-align: center;
+	padding: 24px 0;
+	display: block;
+	margin: 0;
+	position: relative;
+	cursor: pointer;
+}
+
+.bmgmain-links-toggle span {
+	font-size: 14px;
+	font-weight: 700;
+	color: #041b67;
+	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
+	position: relative;
+	cursor: pointer;
+}
+
+label.bmgmain-links-toggle i {
+	height: 10px;
+	width: 10px;
+	margin-left: 2px;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+.most-bmgmain-links {
+	border-color: #0e0f20;
+	opacity: 1;
+	height: auto;
+	display: block;
+	overflow: hidden;
+	transition: all 0.3s;
+}
+
+.most-bmgmain-links ul {
+	margin-bottom: 16px;
+}
+
+.bmgmain-links-toggle-checkbox {
+	display: none;
+}
+
+input[type="checkbox"]:checked ~ label ~ .most-bmgmain-links {
+	opacity: 0;
+	height: auto;
+	display: none;
+	padding: 20px 0 10px;
+	border-top: 1px solid #e5e5e5;
+}
+
+input[type="checkbox"]:checked ~ label span:after {
+	top: 7px;
+	-webkit-transform: rotate(-135deg);
+	transform: rotate(-135deg);
+}
+
+.bmgfoot {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.bmgfoot .f-container {
+	max-width: 1170px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.bmgfoot ul.tabs {
+	margin: 0;
+	padding: 0;
+
+	list-style: none;
+	height: 28px;
+	width: 100%;
+	margin-bottom: 6px;
+}
+
+.bmgfoot ul.tabs li {
+	float: left;
+	margin: 0;
+	cursor: pointer;
+	width: 20%;
+	padding: 13px 20px 13px 20px;
+	background-color: transparent;
+	color: #041b67 !important;
+	overflow: hidden;
+	position: relative;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: 600;
+}
+
+.bmgfoot ul.tabs li.active {
+	background-color: #fff;
+}
+
+.bmgfoot ul.tabs li:hover {
+	color: #1d1f25;
+}
+
+.bmgfoot .bmgtabs_bmgdr_head i,
+.bmgfoot ul.tabs li i {
+	display: inline-block;
+	border: solid #041b67;
+	border-width: 0 2px 2px 0;
+	padding: 2px;
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+	top: 18px;
+
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+
+	position: absolute;
+	right: 8px;
+}
+
+.bmgfoot ul.tabs li:hover i {
+	border-color: #041b67;
+}
+
+.bmgfoot .bmgtab_container {
+	clear: both;
+	width: 100%;
+	background: #fff;
+	/*overflow: auto*/
+}
+
+.bmgfoot .bmgtabs_bmgdr_head {
+	position: relative;
+	display: none;
+	border-bottom: 1px #ccc solid;
+	padding: 10px 0;
+}
+
+.bmgfoot .bmgtabs_bmgdr_head.bmgfoot .bmgtabs_bmgdr_head i,
+.bmgfoot .bmgtab_content {
+	padding: 0;
+	display: none;
+}
+
+.bmgfoot .bmgtab_content ul,
+.bmgfoot .bmgtab_content .subcontainer {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	margin-bottom: 0;
+}
+
+.bmgfoot .bmgtab_content ul li,
+.bmgfoot .bmgtab_content .subcontainer > div {
+	flex: 0 0 20%;
+	padding: 4px 0 4px 20px;
+}
+
+.bmgfoot .bmgtab_content ul li a,
+.bmgfoot .bmgtab_content .subcontainer > div a {
+	text-align: left;
+	font-size: 14px;
+	margin-bottom: 10px;
+	display: block;
+	color: #717589;
+	text-decoration: none;
+	font-weight: 400;
+}
+
+.bmgfoot .bmgtab_content ul li a:hover {
+	color: #1d1f25;
+}
+
+a.sMtoggle {
+	display: none;
+}
+
+.bmgtab_content {
+	padding: 10px 0 0 !important;
+}
+
+
+
+.rFixedBtn .rpsbutton{ 
+	position: relative; 
+	display: block;
+	padding: 14px 60px 14px 20px; 
+}
+
+.rFixedBtn .rpsbutton span {
+	position: absolute; 
+	background-color:#3d3d3d;   
+	background-size: 32px; 
+	right: -1px; 
+	top: -1px; 
+	bottom: 0;  
+	width: 40px;  
+	height:100%;  
+	-webkit-transition: .3s;  
+	transition: .3s; 
+	display: block; 
+	text-align: center; 
+	padding: 10px 0 0px 6px ; 
+}
+
+.rFixedBtn .rpsbutton span  img{ 
+	transform: rotate(90deg); 
+}
+   
+.rFixedBtn:hover .rpsbutton span{ 
+	right: -10px;  
+}
+
+.rFixedBtn:hover { 
+	color: #a2aece;
+}
+
+.dnone{ 
+	display:none
+}
+
+.conbutton {  
+	cursor: pointer;
+}
+
+.videotext,.videotext p{
+	font-size: 17px;
+	line-height: 22px;
+}
+
+
+   .homecertificales{
+	background: #041B67 url(https://web.pokerbaazicdn.com/asset/images/certificate-waved.png) no-repeat right bottom; background-size: cover; 
+	border-radius: 20px; 
+	padding:70px 25px 35px 25px; 
+	min-height: 300px;
+}
+   .homecertificales .posabb{ 
+	z-index: 1; 
+}
+   .homecertificales .cetbutton{ 
+	padding: 10px 50px; 
+	background: #208EF7;
+	border-radius: 8px; 
+	color: #fff; 
+	display: inline-block; 
+	font-weight: 500; 
+	font-size: 18px; 
+	line-height: 27px;
+}
+   .homecertificales h3{
+	font-size: 22px;
+	line-height: 32px;
+	letter-spacing: -0.03em; 
+	font-weight: 400; 
+	margin: 0; 
+	padding: 0;
+}
+
+.certificate-width {
+	width: 85px;
+}
+
+.storiesofglorysec{
+	background: url(https://web.pokerbaazicdn.com/asset/images/storyofglory_bg.png) no-repeat center 0px; background-size: contain; 
+	padding: 50px 0 0 0; 
+}
+
+.sngbottomsec {
+    bottom: -190px;
+    box-shadow: 0px 8.14815px 6.51852px rgb(49 49 49 / 4%), 0px 1.85185px 3.14815px rgb(49 49 49 / 2%);
+}
+
+.chtompesection{
+	background: #F9F9F9;
+}
+
+.w_50 {
+	width: 50px;
+}
+
+.lessthanmargin{ 
+	margin-right:0 
+}
+
+.flip-card{
+	perspective: 1000px; 
+	max-height: 200px; 
+}
+
+.flip-card .flip-card-inner {
+	position: relative;
+	width: 100%;  
+	height: 100%; 
+	text-align: center;  
+	transition: transform 0.6s;  
+	transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner { 
+	transform: rotateY(180deg);
+}
+
+.flip-card .flip-card-front, .flip-card .flip-card-back { 
+	position: absolute; 
+	top: 0; 
+	bottom: 0; 
+	width: 100%;  
+	height: 100%;  
+	-webkit-backface-visibility: hidden;  
+	backface-visibility: hidden; 
+	max-height: 200px;
+}
+
+.flip-card .flip-card-back {
+	transform: rotateY(180deg);  
+}
+
+.flip-card .flip-card-back .sngtopsec-1{ 
+	height: 100%;
+	-ms-flex-align:center!important;
+	align-items:center!important;
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-wrap:wrap;
+	flex-wrap: wrap;
+}
+
+.slick_track_4 {
+	opacity: 1;
+	 width: 1110px; 
+	 transform: translate3d(0px, 0px, 0px);
+}
+
+.slick_track_5 {
+	opacity: 1; 
+	width: 1552px; 
+	transform: translate3d('0px', '0px', '0px')
+}
+
+.storynglory .slick-slide > div{ 
+	padding:10px 5px 
+}
+
+.chtimpeslider .slick-slide{ 
+	padding: 0 8px 10px 8px; 
+}
+
+.ourpolicyslider .slick-slide{ 
+	padding: 0 7px; 
+}
+
+.pad-bot {
+	padding-bottom: 15rem !important;
+}
+
+.sppsection{
+	background: #FFFFFF;
+	border: 1px solid #DBE4E9;
+	border-radius: 20px;
+}
+
+.sppsection .sppsectop{ 
+	padding: 20px; 
+}
+
+.sppsection .sppsecthumb{ 
+	padding: 0 20px; 
+}
+
+.sppsection h5{ 
+	padding: 20px 25px; 
+	margin: 0; 
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 23px;
+	text-align: center;
+	letter-spacing: -0.03em;
+	color: #000000;
+}
+
+.sppsection strong{ 
+	font-size: 20px; 
+}
+
+.downloadnplaysection{
+	background: #063183 url(https://web.pokerbaazicdn.com/asset/images/downloadnplay-bg.png)  no-repeat right bottom;
+	border-radius: 20px; padding:50px 40px 20px 40px ;
+}
+
+.mainourpolicyss .ourpl-thumb{
+	width: 100px;
+	height: 100px;
+	background: #F4F6FF;
+	border-radius: 50%; 
+	line-height: 110px; 
+	text-align: center; 
+	margin: 0 auto;
+}
+
+.ourpolicysec{
+	background: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	box-shadow: 0px 64px 194px rgba(0, 0, 0, 0.1);
+	border-radius: 22px; 
+	padding:40px  25px 25px;
+}
+
+   .ourpolicysec ul li{ 
+	list-style: none; 
+	-ms-flex:0 0 100%;
+	flex:0 0 100%;
+	max-width:100%
+}
+
+.ourpolicysec ul li br{ 
+	display:none ;
+}
+
+.ourpolicysec ul li br{ 
+	display:none ;
+}
+
+.mainourpolicyss .ourpolicmob{
+	background: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	border-radius: 22px; 
+	padding:20px 15px 15px;
+}
+
+.mphedcon .mphed{
+	font-weight: 600 !important;
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+	color: #000339;
+}
+
+.accordionCard{
+	background: #FFFFFF;
+	border: 1px solid #CFCFCF !important;
+	border-radius: 10px; 
+	margin-bottom: 10px; 
+	padding: 2px;
+}
+
+.accordion-button, .card-link {
+	width: 100% !important;
+}
+
+.accordion {
+	--bs-accordion-active-bg: #fff;
+	--bs-accordion-btn-focus-box-shadow:#fff;
+}
+
+.accordion-button::after {
+	display: none;
+}
+
+.faq-accordion.newfaqs .card-body p:last-child{ 
+	margin-bottom: 0; 
+}
+
+.faq-accordion.newfaqs .card-header{ 
+	color: #000; 
+	font-size: 20px; 
+	font-weight: 500; 
+}
+
+.faq-accordion.newfaqs .card-body,.faq-accordion .card-body a{ 
+	color: #000; 
+	font-size: 16px; 
+	font-weight: 400; 
+}
+
+.bluertybg{ 
+	background-color: #3734a9;  
+	border-radius: 0; 
+	overflow:hidden
+}
+
+.blueboxcontent{ 
+	background:  url(https://web.pokerbaazicdn.com/asset/images/queen_bg.png) no-repeat 20px bottom,  
+	url(https://web.pokerbaazicdn.com/asset/images/king-bg.png) no-repeat 100% bottom; 
+	background-size:100px,60px ; 
+}
+
+.blueboxcontent .blueboxcontentinner{ 
+	padding: 100px  20px;  
+	background:  url(https://web.pokerbaazicdn.com/asset/images/redtile_bg.png) no-repeat 50px 20px,  
+	url(https://web.pokerbaazicdn.com/asset/images/redtile_bg.png) no-repeat 90% 20px; 
+	background-size: 50px; 
+}
+
+.tournaments .tournaments-content{box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 0px 14px 14px 14px; 
+	padding:20px 20px 10px 20px; 
+	position: relative; 
+	margin: -70px 10% 0 0 ; 
+	z-index: 9; 
+	border-radius:0 8px 8px 8px; 
+	font-weight: 500;   
+	background:  url(https://web.pokerbaazicdn.com/asset/images/blureffect-bg.jpg);
+}
+
+.mobiledownloadplay{
+	background: #063183 url(https://web.pokerbaazicdn.com/asset/images/downloadnplay_bg.png)  no-repeat right bottom;
+	border-radius: 20px; 
+	padding:30px 20px 0px 20px ;
+}
+
+.imgs123 {
+	position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 7px;
+}
+
+.w-100 {
+	width: 100% !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:1200px) {
+	#myHeader .container {
+		position: static
+	}
+
+	.tournaments .tournaments-content h3 {
+	font-size: 28px;
+    line-height: 24px;
+	font-weight: 600;
+	}
+
+	.blueboxcontent .blueboxcontentinner { 
+		padding: 100px  40px;
+	}
+
+	.blueboxcontent h2{
+		font-size: 45px;
+		line-height: 57px;
+	}
+
+	.navbar {
+		padding: 0
+	}
+	.mainbannercontent h5 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+
+	.navbar .nav-item {
+		padding: 4px 10px
+	}
+	.commanbuton{ 
+		line-height: 55px; 
+		padding: 0 35px; 
+		font-size: 20px;}
+	.mainbannercontent h2{font-size: 55px;line-height: 70px;  }
+	.mainbannercontent h2 span{font-size: 22px;line-height: 125.3%;}
+	.blankbutton {
+		font-size: 22px;
+		line-height: 30px;
+	}
+}
+
+
+@media(min-width: 992px){
+	/*.mainwarper{ padding: 25px 0; }
+	*/
+	.mphedcon .mphed{
+		font-size: 35px;
+		line-height: 52px;
+	}
+
+	.blueboxcontent .blueboxcontentinner{ 
+		padding: 1110px  40px;  
+		background-size: 90px; 
+	}
+
+	.blueboxcontent h2{
+		font-size: 35px;
+		line-height: 47px;
+	}
+
+	.ourpolicysec ul li{ 
+		list-style: none; 
+		-ms-flex:0 0 20%;
+		flex:0 0 20%;
+		max-width:20%
+	}
+
+	.tournaments .tournaments-content .h2h{ 
+		font-size: 12px; 
+		line-height: 13px; 
+		margin-bottom: 15px; 
+		font-weight: 600;  
+	}
+
+	.text-grey {
+		color: #636384;
+	}
+
+	.tournaments .tournaments-content h3{ 
+		font-size:24px;  
+		line-height: 24px; 
+	}
+
+	.tournaments .tournaments-content{
+		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+		border-radius: 0px 14px 14px 14px; 
+		padding:20px 20px 10px 20px; 
+		position: relative; 
+		margin: -70px 10% 0 0 ; 
+		z-index: 9; 
+		border-radius:0 8px 8px 8px; 
+		font-weight: 500;   
+		background:  url(https://web.pokerbaazicdn.com/asset/images/blureffect-bg.jpg);
+	}
+
+	.sppsection h5{
+		font-size: 22px; 
+		line-height: 34px;
+	}
+
+	.ourpolicysec ul li{ 
+		list-style: none; 
+		-ms-flex:0 0 20%;
+		flex:0 0 20%;
+		max-width:20%
+	}
+
+	.downloadlinks{ 
+		position: relative; 
+		margin-right: 20%;  
+	}
+
+	.mainbannercontent h5{
+		font-size: 30px;
+		line-height: 40px;
+	}
+
+	.mainbannercontent h2{
+		font-size: 47px;
+		line-height: 55px;  
+	}
+
+	.mainbannercontent h2 span{
+		font-size: 22px;
+		line-height: 125.3%;
+	}
+
+	.commanbuton{ 
+		line-height: 50px; 
+		padding: 0 30px; 
+		font-size: 20px;
+	}
+
+	.blankbutton{ 
+		font-size: 20px;
+		line-height: 30px; 
+	}
+
+	.halfcircle img{ 
+		max-width: 100%; 
+	}
+
+	.companesec h2{ 
+		font-size: 16px; 
+	}
+
+	.companesec .compdd p{  
+		font-size:3rem;
+	}
+
+	.storynglorysec .sngtopsec-1{ 
+		padding: 20px; 
+		font-size: 16px; 
+		line-height:20px;
+	}
+}
+
+.storynglorysec{ 
+	background: url(https://web.pokerbaazicdn.com/asset/images/storynglorybg.png) no-repeat center top; 
+	background-size: contain;    
+	border-top: 1px  #EAEFF3 solid;
+	width: 360px;
+}
+
+  .storynglorysec .sngtopsec{ 
+	padding: 20px; 
+	text-align: center;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 18px;
+	color: #797979; 
+}
+
+  .storynglorysec .sngtopsec h4{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #453232;
+}
+
+  .storynglorysec .sngbottomsec{ 
+	padding: 15px 42px 10px 15px; 
+	border: 1px  #EAEFF3 solid; 
+	font-size: 14px; 
+	line-height: 21px; 
+	font-weight: 600; 
+	min-height: 60px; 
+	position: relative; 
+}
+  .storynglorysec .sngbottomsec:after{ 
+	position: absolute; 
+	right: -6px; 
+	bottom:-25px ; 
+	width: 48px; 
+	height: 70px;
+	background: url(https://web.pokerbaazicdn.com/asset/images/cut-rightbg.png) no-repeat right top;  
+	content: ""; z-index: 9;  
+}
+
+  .storynglorysec .sngtopsec-1{
+	background: #F2F2F2; 
+	padding: 15px; 
+	font-size: 13px; 
+	line-height: 18px; 
+	min-height: 186px;
+}
+
+.storynglorysec .sngtopsec-1 p:last-child{ 
+	margin-bottom: 0; 
+}
+
+.big_win {
+	flex-shrink: 0;
+    width: auto;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+}
+
+.tournaments .tournaments-content .h3h {
+	font-size: 14px; 
+	line-height: 18px; 
+	min-height: 50px;
+}
+
+@media (max-width: 768px) {
+	#myHeader .container {
+		padding: 0 10px
+	}
+
+	
+
+	.d_sm_none {
+		display: none;
+	}
+
+	.lessthanmargin {
+		display: flex;
+		justify-content: center;
+	}
+
+	.box-fix .game-experience__card {
+		height: auto !important
+	}
+
+	.txtspacemob {
+		padding: 20px
+	}
+
+	.mptop{ 
+		top: -50px;
+	}
+	.mptop40{ 
+		top: -20px; 
+	}
+
+	.d-mob-hide {
+		display: none
+	}
+
+	.w-49 {
+		width: 49%
+	}
+
+	.w-65 {
+		width: 65%
+	}
+
+	.w-80 {
+		width: 80%
+	}
+
+	.w-85 {
+		width: 85%
+	}
+
+	.w-90 {
+		width: 90%
+	}
+
+	.w-90p {
+		width: 90px
+	}
+
+	.wm-100 {
+		width: 100% !important
+	}
+
+	.generic-banner__inner {
+		padding-top: 130px
+	}
+
+	.raf-banner {
+		background-image: url("https://web.pokerbaazicdn.com/assets/images/raf-mb.png");
+		padding: 40px 0 150px 0
+	}
+
+	.htp-banner {
+		background-image: url("https://web.pokerbaazicdn.com/assets/images/htp-mb.png");
+		padding: 10px 0 200px 0
+	}
+
+	.htp-container-overlap {
+		position: relative;
+		margin-top: -100px
+	}
+
+	.bmgtab_content {
+		padding: 0 !important;
+	}
+
+	input[type="checkbox"]:checked ~ label ~ .most-bmgmain-links {
+		padding: 0px 0 15px;
+	}
+
+	.bmgfoot .tabs {
+		display: none;
+	}
+
+	.bmgfoot .bmgtab_container {
+		background-color: transparent;
+	}
+
+	.bmgfoot .bmgtabs_bmgdr_head {
+		font-size: 15px;
+		font-weight: 600;
+		background-color: transparent;
+		color: #041b67;
+		margin: 0;
+
+		display: block;
+		cursor: pointer;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	.bmgfoot .bmgtabs-row {
+		margin: 0 -10px;
+	}
+
+	.bmgfoot .f-container {
+		padding: 0;
+	}
+
+	.bmgfoot h3[rel="tab1"] {
+		border-top: 0;
+	}
+
+	.bmgfoot .bmgtab_content ul {
+		margin-top: 16px;
+	}
+
+	.bmgfoot .bmgtab_content ul li,
+	.bmgfoot .bmgtab_content .subcontainer > div {
+		flex: 0 0 100%;
+	}
+
+	.bmgfoot .bmgtab_content ul li {
+		margin-bottom: 0;
+	}
+
+	.bmgfoot .bmgtab_content ul li a {
+		margin: 0;
+	}
+
+	.bmgfoot .bmgtabs_bmgdr_head i {
+		transition: all 0.2s;
+		-moz-transition: all 0.2s;
+		-webkit-transition: all 0.2s;
+	}
+
+	.bmgfoot.dark-theme a.sMtoggle {
+		color: #727272;
+		margin: 0;
+	}
+
+	.bmgfoot a.sMtoggle {
+		display: block;
+		font-size: 15px;
+		font-weight: 600;
+		color: #263275;
+		text-decoration: none;
+
+		padding: 20px 0 20px 16px;
+		outline: 0;
+		border: 0;
+	}
+
+	.bmgfoot .bmgtabs-row {
+		display: none;
+	}
+
+	.bmgmost-searched > div > div:first-child {
+		display: block;
+	}
+
+	.bmgtabs-row.block-all {
+		display: block;
+	}
+
+	.bmgfoot .bmgmost-searched {
+		padding-bottom: 0px;
+	}
+
+	.bmgfoot .bmgtab_content ul li,
+	.bmgfoot .bmgtab_content .subcontainer > div {
+		padding-left: 0;
+	}
+}
+
+@media (min-width: 768px) {
+	.navbar .header-logo {
+		margin-right: 50px;
+	}
+	.img50 img{ 
+		max-width: 100%; 
+	}
+
+	.commanbuton{ 
+		line-height: 40px; 
+		padding: 0 25px; 
+		font-size: 17px;
+		width: auto;
+	}
+
+	.ourpolicysec ul li{  
+		-ms-flex:0 0 33.33%;
+		flex:0 0 33.33%;
+	}
+
+   	.ourpolicysec ul li br{ 
+		display:block ;
+	}
+
+	.mainwarperinner{ 
+		position: absolute; top: 50%; 
+		left: 0; 
+		bottom: auto; 
+		right: 0; 
+		transform: translateY(-50%); 
+		z-index: 9; 
+	}
+	.mphedcon .mptext {
+		font-size: 18px; 
+		line-height: 22px;
+		letter-spacing: 0.0015em;
+	}
+	
+	.homecertificales h3{
+		font-size: 36px;
+		line-height: 52px;
+		letter-spacing: -0.03em;
+	}
+
+	.storiesofglorysec{background: url(https://web.pokerbaazicdn.com/asset/images/storyofglory_bg.png) no-repeat center -50px; 
+		background-size: contain; 
+		padding: 150px 0 0 0; 
+	}
+
+	.storynglorysec .sngbottomsec{ 
+		font-size: 18px; 
+		line-height: 25px; 
+	}
+}
+
+
+
+@media(max-width:572px) {
+	.careers-job-content-top .conbutton {
+		padding: 5px 10px !important;
+		font-size: 13px;
+		right: -5px !important
+	}
+}
+
+
+
+@media(min-width: 576px){
+	.newstrigersec h2{ 
+		font-size: 14px;
+	}
+
+	.chtimpeslider{ 
+		margin:0 -15px; 
+	}
+
+	.chtimpeslider .slick-slide{ 
+		padding: 0 15px 10px 15px; 
+	}
+
+	.bluertybg{ 
+		background-color: #3734a9; 
+		border-radius: 7px;
+	}
+
+	.blueboxcontent{  
+		background:  url(https://web.pokerbaazicdn.com/asset/images/queen_bg.png) no-repeat 15px bottom,  
+		url(https://web.pokerbaazicdn.com/asset/images/king-bg.png) no-repeat 100% bottom; 
+		background-size:140px,100px ; 
+	}
+
+	.blueboxcontent .blueboxcontentinner{ 
+		padding: 100px  20px;  
+		background:  url(https://web.pokerbaazicdn.com/asset/images/redtile_bg.png) no-repeat 50px 20px,  
+		url(https://web.pokerbaazicdn.com/asset/images/redtile_bg.png) no-repeat 90% 20px; 
+		background-size: 60px; 
+	}
+
+	}
